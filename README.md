@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@fxfunds/stablecoin-payments.svg)](https://www.npmjs.com/package/@fxfunds/stablecoin-payments)
 [![PyPI version](https://img.shields.io/pypi/v/fxfunds-stablecoin-payments.svg)](https://pypi.org/project/fxfunds-stablecoin-payments/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23463811.svg)](https://doi.org/10.5281/zenodo.23463811)
 [![Docs](https://readthedocs.org/projects/fxfunds-stablecoin-payments/badge/?version=latest)](https://fxfunds-stablecoin-payments.readthedocs.io)
 
 FXFunds Stablecoin Payments Bot is a blockchain payment automation tool that verifies stablecoin payments, tracks transaction confirmations and manages payment records for USDT on Ethereum (ERC20), Tron (TRC20) and TON. Built by [FXFunds](https://fxfunds.com/).
@@ -224,7 +224,7 @@ Stablecoin Payments · USDT · Payment Verification · Crypto Payments · ERC20 
 | PyPI | https://pypi.org/project/fxfunds-stablecoin-payments/ |
 | Hugging Face | https://huggingface.co/datasets/FXFunds/stablecoin-payments-benchmarks |
 | Kaggle | https://www.kaggle.com/datasets/fxfunds/stablecoin-payments-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/23463811 |
 | Docs | https://fxfunds-stablecoin-payments.readthedocs.io |
 | Quora | https://fxfunds.quora.com/ |
 | Pinterest | https://www.pinterest.com/fxfunds_1/ |
