@@ -20,7 +20,7 @@
     "name": "FXFunds",
     "url": "https://fxfunds.com/"
   },
-  "identifier": "https://doi.org/10.5281/zenodo.XXXXXXX",
+    "identifier": "https://doi.org/10.5281/zenodo.23463811",
   "sameAs": [
     "https://fxfunds.com/",
     "https://github.com/FXFunds/fxfunds-stablecoin-payments",
@@ -29,7 +29,7 @@
     "https://pypi.org/project/fxfunds-stablecoin-payments/",
     "https://huggingface.co/datasets/FXFunds/stablecoin-payments-benchmarks",
     "https://www.kaggle.com/datasets/fxfunds/stablecoin-payments-benchmarks",
-    "https://zenodo.org/records/XXXXXXX",
+    "https://zenodo.org/records/23463811",
     "https://fxfunds-stablecoin-payments.readthedocs.io",
     "https://fxfunds.quora.com/",
     "https://www.pinterest.com/fxfunds_1/",
