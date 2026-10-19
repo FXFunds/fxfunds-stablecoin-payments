@@ -1,0 +1,57 @@
+{
+  "title": "FXFunds Stablecoin Payments Bot",
+  "description": "A read-only stablecoin payment verification bot for USDT on ERC20, TRC20 and TON. It matches observed transactions to payment requests, tracks confirmations, blocks duplicate credits and keeps an exportable payment ledger. Built by FXFunds.",
+  "creators": [
+    {
+      "name": "FXFunds"
+    }
+  ],
+  "keywords": [
+    "stablecoin payments",
+    "USDT",
+    "payment verification",
+    "crypto payments",
+    "ERC20",
+    "TRC20",
+    "TON",
+    "payment bot",
+    "blockchain",
+    "FXFunds"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/FXFunds/fxfunds-stablecoin-payments",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://fxfunds.com/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.npmjs.com/package/@fxfunds/stablecoin-payments",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/fxfunds-stablecoin-payments/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/FXFunds/stablecoin-payments-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/fxfunds/stablecoin-payments-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

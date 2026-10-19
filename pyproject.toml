@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fxfunds-stablecoin-payments"
+version = "1.0.0"
+description = "Read-only stablecoin payment verification bot for USDT on ERC20, TRC20 and TON. Built by FXFunds."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "FXFunds" }]
+keywords = [
+  "stablecoin", "stablecoin-payments", "usdt", "payment-verification", "crypto-payments",
+  "erc20", "trc20", "ton", "payment-bot", "blockchain", "fintech", "fxfunds"
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Intended Audience :: Developers",
+  "Topic :: Office/Business :: Financial",
+]
+
+[project.urls]
+Homepage = "https://fxfunds.com/"
+Repository = "https://github.com/FXFunds/fxfunds-stablecoin-payments"
+Documentation = "https://fxfunds-stablecoin-payments.readthedocs.io"
+Issues = "https://github.com/FXFunds/fxfunds-stablecoin-payments/issues"
+
+[project.scripts]
+fxfunds-payments = "fxfunds_stablecoin_payments:main"
+
+[tool.setuptools]
+py-modules = ["fxfunds_stablecoin_payments"]

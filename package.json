@@ -1,0 +1,49 @@
+{
+  "name": "@fxfunds/stablecoin-payments",
+  "version": "1.0.0",
+  "description": "Read-only stablecoin payment verification bot for USDT on ERC20, TRC20 and TON — payment matching, confirmation tracking, duplicate detection and payment ledger. Built by FXFunds.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "bin": {
+    "fxfunds-payments": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "stablecoin",
+    "stablecoin-payments",
+    "usdt",
+    "payment-verification",
+    "crypto-payments",
+    "erc20",
+    "trc20",
+    "ton",
+    "payment-bot",
+    "blockchain",
+    "fintech",
+    "fxfunds"
+  ],
+  "author": "FXFunds",
+  "license": "MIT",
+  "homepage": "https://fxfunds.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FXFunds/fxfunds-stablecoin-payments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FXFunds/fxfunds-stablecoin-payments/issues"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.4.0"
+  }
+}

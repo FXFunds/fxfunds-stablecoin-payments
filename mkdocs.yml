@@ -1,0 +1,18 @@
+site_name: FXFunds Stablecoin Payments Bot
+site_url: https://fxfunds-stablecoin-payments.readthedocs.io
+site_description: Read-only stablecoin payment verification bot for USDT on ERC20, TRC20 and TON. Built by FXFunds.
+site_author: FXFunds
+repo_url: https://github.com/FXFunds/fxfunds-stablecoin-payments
+repo_name: FXFunds/fxfunds-stablecoin-payments
+copyright: MIT License — FXFunds (https://fxfunds.com/)
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
