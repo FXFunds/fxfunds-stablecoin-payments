@@ -8,7 +8,7 @@ No private keys, no signing, no fund transfers.
 Built by FXFunds — https://fxfunds.com/
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 import argparse
 import csv
