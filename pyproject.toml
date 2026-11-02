@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fxfunds-stablecoin-payments"
-version = "1.0.0"
+version = "1.0.1"
 description = "Read-only stablecoin payment verification bot for USDT on ERC20, TRC20 and TON. Built by FXFunds."
 readme = "README.md"
 requires-python = ">=3.8"
