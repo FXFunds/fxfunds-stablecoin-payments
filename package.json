@@ -1,6 +1,6 @@
 {
   "name": "@fxfunds/stablecoin-payments",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Read-only stablecoin payment verification bot for USDT on ERC20, TRC20 and TON — payment matching, confirmation tracking, duplicate detection and payment ledger. Built by FXFunds.",
   "main": "index.js",
   "types": "index.d.ts",
