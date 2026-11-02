@@ -8,7 +8,7 @@
   "programmingLanguage": ["TypeScript", "Python"],
   "runtimePlatform": ["Node.js", "Python 3"],
   "license": "https://opensource.org/licenses/MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": "stablecoin payments, USDT, payment verification, crypto payments, ERC20, TRC20, TON, payment bot, blockchain, fintech, FXFunds",
   "author": {
     "@type": "Organization",
